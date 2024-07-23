@@ -3,6 +3,6 @@ finance-datareader
 matplotlib 
 pandas 
 plotly 
-htmrlib
+html5lib
 streamlit
 openpyxl
